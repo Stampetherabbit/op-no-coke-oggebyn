@@ -1,0 +1,17 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <!-- 1. Outer red ring (annulus) — thick prohibition border -->
+  <path d="M 120 5 A 115 115 0 1 0 120 235 A 115 115 0 1 0 120 5 Z M 120 28 A 92 92 0 1 1 120 212 A 92 92 0 1 1 120 28 Z" fill="#c41e3a" fill-rule="evenodd"/>
+
+  <!-- 2. Inner cream/parchment disc -->
+  <circle cx="120" cy="120" r="92" fill="#ede2c8"/>
+
+  <!-- 3. Two BIG horizontal powder lines (centered, thicker) -->
+  <rect x="52" y="106" width="136" height="14" rx="5" fill="#1a1a1a"/>
+  <rect x="52" y="132" width="136" height="14" rx="5" fill="#1a1a1a"/>
+
+  <!-- 4. Diagonal straw / rolled note pointing down-right toward lines (BIG) -->
+  <path d="M 156 88 L 198 44 L 218 58 L 178 102 Z" fill="#1a1a1a"/>
+
+  <!-- 5. Red diagonal slash (full diameter, on TOP of everything) -->
+  <path d="M 28 196 L 56 224 L 224 56 L 196 28 Z" fill="#c41e3a"/>
+</svg>
